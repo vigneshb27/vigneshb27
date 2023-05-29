@@ -10,7 +10,7 @@
 🤝 &nbsp; Connect with Me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vignesh-b-17839b233/)
-[<img src="[https://img.shields.io/twitter/url?style=social&url=%2Ftwitter%2Furl" />](https://twitter.com/vigneshb27)
+[<img src="[https://img.shields.io/badge/twitter/url?style=social&url=%2Ftwitter%2Furl" />](https://twitter.com/vigneshb27)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:vigneshbaskaran2709@gmail.com)
 
 <hr>
